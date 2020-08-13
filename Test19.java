@@ -8,5 +8,9 @@ public class Test19{
 	else 
 		result="fail";
 	System.out.println(result);
+	System.out.println(result);
+	System.out.println(result);
+	System.out.println(result);
+	System.out.println(result);
 	}
 }
